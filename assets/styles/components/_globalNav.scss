@@ -1,0 +1,22 @@
+@use './../var';
+
+.global-nav {
+    background-color: var.$mainDk;
+    color: var.$mainLt;
+    button {
+        &:hover {
+            .v-btn__overlay {
+                opacity: 0;
+            }
+            a, i {
+                transition: color 0.35s;
+                color: var.$primary;
+            }
+        }
+        a {
+            color: var.$mainLt;
+        }
+    }
+
+    
+}
