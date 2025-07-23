@@ -2,7 +2,7 @@
 <v-app-bar class="global-nav" density="compact" :elevation="2" theme="dark">
   <template v-slot:prepend>
     <v-app-bar-nav-icon class="pl-3">
-      <img src="../assets/img/gc-logos/can-flag-mini.png" alt="" width="44" height="22" />
+      <img src="../assets/img/gc-logos/img_forest.jpg" alt="" width="44" height="22" />
     </v-app-bar-nav-icon>
   </template>
   <v-app-bar-title>Forces.ca Style Guide</v-app-bar-title>
