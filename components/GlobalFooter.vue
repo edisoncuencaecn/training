@@ -1,6 +1,6 @@
 <template>
     <v-footer color="surface-light" name="footer">
-        <h1>Footer</h1>
+      <h1>Footer.</h1>
       <v-btn
         class="mx-auto"
         text="Get data"
