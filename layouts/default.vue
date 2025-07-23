@@ -22,10 +22,6 @@
           </v-main>
         </v-layout>
       </v-card>
-
-
-
-    
     <GlobalFooter />
 
   </v-layout>
